@@ -1,4 +1,9 @@
 # 图像批量拼接工具
+这是一个图片拼接工具
+
+This is a picture stitching tool
+
+
 支持批量，可选水平、竖直、网格方式，可自定义间距、导出文件名
 
 Support batch, optional horizontal, vertical, grid mode, customizable spacing, export file name
